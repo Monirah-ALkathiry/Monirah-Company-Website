@@ -20,7 +20,7 @@ url = "/contact"
 weight = 4
 
 [[main]]
-name = "FAQ"
+name = "Frequently Asked Questions"
 url = "/faq"
 weight = 5
 
